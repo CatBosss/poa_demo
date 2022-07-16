@@ -36,6 +36,7 @@ poeModule.proofs: Option<(AccountId32,u32)>
 <none>
 - 选择 开发者 - 交易，选择poeModule，createClaim(claim)，revokeClaim(claim)，transferClaim(claim, dest)
 输入0x00，提交交易等操作
+  
 ![4](https://user-images.githubusercontent.com/102146042/179365490-07792cbb-4347-4921-a9ce-4eea200d230b.png)
   
 ![5](https://user-images.githubusercontent.com/102146042/179365493-2d17f599-ae0f-469d-9142-4c0f886777ab.png)
